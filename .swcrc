@@ -1,0 +1,8 @@
+{
+  "exclude": [".*\\.d\\.ts", ".*\\.(spec|test)\\.tsx?$"],
+  "jsc": {
+    "parser": {
+      "syntax": "typescript"
+    }
+  }
+}
